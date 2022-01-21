@@ -1,0 +1,93 @@
+{
+    "guajolotas": [
+        {
+            "id": 1,
+            "nombre": "Verde",
+            "precio": 25,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785272/Sprint%202/tamal_sfbput.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Mole",
+            "precio": 25,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785272/Sprint%202/Property_1_mole_qyswmd.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Guayaba",
+            "precio": 25,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/guajolota3_unooou.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Piña",
+            "precio": 25,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/guajolota4_tvc10r.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Pasas",
+            "precio": 25,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/guajolota_ygb5hs.png"
+        }
+    ],
+    "tamales": [
+        {
+            "id": 1,
+            "nombre": "Verde",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785272/Sprint%202/Property_1_verde_u5rwzh.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Mole",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785272/Sprint%202/Property_1_mole_qyswmd.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Guayaba",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785272/Sprint%202/Property_1_guayaba_u0nybm.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Piña",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785272/Sprint%202/Property_1_pi%C3%B1a_rkwy5l.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Pasas",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785272/Sprint%202/Property_1_pasas_vm8bqx.png"
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 1,
+            "nombre": "Champurrano",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/Property_1_champurrado_cjh0xy.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Atole de arroz",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/Property_1_arroz_cr0ad9.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Cafe negro",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/Property_1_cafe_il6vue.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Chocolate caliente",
+            "precio": 14,
+            "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/Property_1_chocolate_efzksb.png"
+        }
+    ],
+    "sabores": []
+}

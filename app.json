@@ -88,5 +88,37 @@
             "precio": 14,
             "imagen": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1642785271/Sprint%202/Property_1_chocolate_efzksb.png"
         }
+    ],
+    "sabores": [
+        {
+            "id": 1,
+            "sabor": "verde",
+            "imagen": "https://res.cloudinary.com/jadergomez/image/upload/v1643558695/verde_syxdii_frt77g.png"
+        },
+        {
+            "id": 2,
+            "sabor": "mole",
+            "imagen": "https://res.cloudinary.com/jadergomez/image/upload/v1643558739/mole_endv5y_azey3t.png"
+        },
+        {
+            "id": 3,
+            "sabor": "rajas",
+            "imagen": "https://res.cloudinary.com/jadergomez/image/upload/v1643558780/rajas_tbfmg1_hznbty.png"
+        },
+        {
+            "id": 4,
+            "sabor": "piña",
+            "imagen": "https://res.cloudinary.com/jadergomez/image/upload/v1643558830/pi%C3%B1a_ank3us_t7wkg3.png"
+        },
+        {
+            "id": 5,
+            "sabor": "pasas",
+            "imagen": "https://res.cloudinary.com/jadergomez/image/upload/v1643558859/pasas_v8wwvy_kwoppk.png"
+        },
+        {
+            "id": 6,
+            "sabor": "guayaba",
+            "imagen": "https://res.cloudinary.com/jadergomez/image/upload/v1643558898/guayaba_njp1fu_sh0atp.png"
+        }
     ]
 }
